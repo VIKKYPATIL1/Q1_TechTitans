@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088254426375",
+    "project_id": "scavenger-49a46",
+    "storage_bucket": "scavenger-49a46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088254426375:android:b334bc111ac4527bf6d9a2",
+        "android_client_info": {
+          "package_name": "com.scavenger.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAtS7l_OHbVtHGkwGL-mN_-a_gqnycVPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
